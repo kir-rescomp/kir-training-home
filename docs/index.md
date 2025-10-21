@@ -24,7 +24,7 @@
     
 -   <center>![intro-to-git](./images/git_and_github.png){ width="220" }</center>
     
-    __Introduction to Git and Gituhb__
+    __Introduction to Git and Github__
     
     ---
     
