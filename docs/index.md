@@ -20,7 +20,7 @@
     
     Explore the foundations of working efficiently in a Linux environment through the command line interface. This beginner-level workshop introduces essential commands for navigating the filesystem, managing files and processes, and automating tasks
     
-    [Start :octicons-arrow-right-24:](./aws/){ .md-button }
+    [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-intro-to-linux-cli/){ .md-button }
     
 -   <center>![intro-to-git](./images/git_and_github.png){ width="220" }</center>
     
