@@ -1,0 +1,5 @@
+# Commandline 
+
+Linux Productivity Tools : https://www.olcf.ornl.gov/wp-content/uploads/2019/12/LPT_OLCF.pdf
+
+Learning Resources ( The linux command line) https://researchcomputing.princeton.edu/education/external-online-resources/linux
