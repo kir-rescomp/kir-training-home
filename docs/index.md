@@ -42,8 +42,8 @@
     
     [Start :octicons-arrow-right-24:](./azure/){ .md-button }
     
--   <center>![intro-to-snakemake](./images/snakemake_new_logo.png){ width="270" }</center>
-    <br>
+-   <center>![intro-to-snakemake](./images/snakemake_new_logo.png){ width="220" }</center>
+    
     
     __Introduction to Snakemake__
     
