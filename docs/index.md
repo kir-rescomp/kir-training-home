@@ -41,5 +41,17 @@
     Introduction to using the Apptainer container platform. Apptainer is particularly suited to running containers on infrastructure where users don’t have administrative privileges, for example shared infrastructure such as High Performance Computing (HPC) clusters
     
     [Start :octicons-arrow-right-24:](./azure/){ .md-button }
+    
+-   <center>![intro-to-snakemake](./images/snakemake_new_logo.png){ width="270" }</center>
+    <br>
+    
+    __Introduction to Snakemake__
+    
+    ---
+
+    Snakemake is a powerful workflow management system designed to create reproducible and scalable data analyses through simple, human-readable Python-based syntax. It automatically detects dependencies, parallelizes tasks efficiently, and can seamlessly scale from a single workstation to computing clusters and cloud environments
+
+    
+    [Start :octicons-arrow-right-24:](./azure/){ .md-button }
 
 </div>
