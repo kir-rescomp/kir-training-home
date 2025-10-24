@@ -1,8 +1,7 @@
-<h1 align="center"><b>KIR Training Catalogue</b></h1>
-
+<h1></h1>
 
 <p align="center">
- <img src="./images/kir_standalone_logo.png" alt="drawing" width="300"/>
+ <img src="./images/first_training_logo.png" alt="drawing" width="500"/>
  </p> 
 
 <!--- check -->
