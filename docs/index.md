@@ -52,6 +52,6 @@
     Snakemake is a powerful workflow management system designed to create reproducible and scalable data analyses through simple, human-readable Python-based syntax. It automatically detects dependencies, parallelizes tasks efficiently, and can seamlessly scale from a single workstation to computing clusters and cloud environments
 
     
-    [Start :octicons-arrow-right-24:](./azure/){ .md-button }
+    [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-intro-to-snakemake/){ .md-button }
 
 </div>
