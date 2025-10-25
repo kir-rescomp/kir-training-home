@@ -12,6 +12,12 @@
   --md-typeset-a-color: #2596be;
 }
 
+/* Force 3 columns for grid cards */
+.md-typeset .grid.cards {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
 :root {
 
   /* Default color shades */
