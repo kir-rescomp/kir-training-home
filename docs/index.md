@@ -1,8 +1,13 @@
 <h1></h1>
 
 <p align="center">
- <img src="./images/first_training_logo.png" alt="drawing" width="500"/>
+ <img src="./images/second_training_logo.png" alt="drawing" width="500"/>
  </p> 
+
+!!! quote ""
+
+    This catalogue serves as a central repository for training resources and educational materials developed by the Research Computing team at the Kennedy Institute of Rheumatology, University of Oxford to support computational research and skill development.
+
 
 <!--- check -->
 
