@@ -47,7 +47,7 @@
     Introduction to using the Apptainer container platform. Apptainer is particularly suited to running containers on infrastructure where users don’t have administrative privileges, for example shared infrastructure such as High Performance Computing (HPC) clusters
     </span><br>
 
-    [Start :octicons-arrow-right-24:](./azure/){ .md-button }
+    [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-intro-to-apptainer/){ .md-button }
     
 -   <center>![intro-to-snakemake](./images/snakemake_new_logo.png){ width="220" }</center>
     
