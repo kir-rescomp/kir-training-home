@@ -1,7 +1,7 @@
 <h1></h1>
 
 <p align="center">
- <img src="./images/second_training_logo.png" alt="drawing" width="500"/>
+ <img src="./images/third_training_logo.png" alt="drawing" width="500"/>
  </p> 
 
 !!! quote ""
