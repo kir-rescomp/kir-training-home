@@ -68,7 +68,7 @@
     
     ---
     <span style="font-size: 0.7rem;">
-
+    User-level guide for profiling GPU usage in Slurm jobs without requiring sudo/admin permissions.
     </span><br>
     
     [Start :octicons-arrow-right-24:]( ){ .md-button }
