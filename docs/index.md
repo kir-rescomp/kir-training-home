@@ -61,4 +61,16 @@
     
     [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-intro-to-snakemake/){ .md-button }
 
+-   <center>![gpu-profiling](./images/gpu_profiling.png){ width="220" }</center>
+    
+    
+    __GPU Profiling__
+    
+    ---
+    <span style="font-size: 0.7rem;">
+
+    </span><br>
+    
+    [Start :octicons-arrow-right-24:]( ){ .md-button }
+
 </div>
