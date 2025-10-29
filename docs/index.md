@@ -36,7 +36,7 @@
     How to manage code and collaborate effectively using Git and GitHub. This workshop introduces version control concepts, repositories, branching, commits, and pull requests, providing the skills needed to track changes and contribute confidently to modern software projects
     </span><br>
 
-    [Start :octicons-arrow-right-24:](./azure/){ .md-button }
+    [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-intro-to-git-github/){ .md-button }
 
 -   <center>![intro-to-git](./images/apptainer.png){ width="220" }</center>
     
@@ -71,6 +71,6 @@
     User-level guide for profiling GPU usage in Slurm jobs without requiring sudo/admin permissions.
     </span><br>
     
-    [Start :octicons-arrow-right-24:]( ){ .md-button }
+    [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-gpu-profiling/){ .md-button }
 
 </div>
