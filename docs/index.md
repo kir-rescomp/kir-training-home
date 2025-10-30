@@ -16,40 +16,44 @@
 
 <div class="grid cards" markdown>
 
--   <center>![intro-to-shell](./images/introduction_to_shell.png){ width="220" }</center>
+-   <a href="https://kir-rescomp.github.io/training-intro-to-linux-cli/" style="text-decoration: none; color: inherit; display: block;">
+    <center>![intro-to-shell](./images/introduction_to_shell.png){ width="220" }</center>
     
     __Introduction to the Linux Command Line__
     
     ---
     <span style="font-size: 0.7rem;"> 
     Explore the foundations of working efficiently in a Linux environment through the command line interface. This beginner-level workshop introduces essential commands for navigating the filesystem, managing files and processes, and automating tasks
-    </span><br>
+    </span></a><br>
 
     [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-intro-to-linux-cli/){ .md-button }
     
--   <center>![intro-to-git](./images/git_and_github.png){ width="220" }</center>
+-   <a href="https://kir-rescomp.github.io/training-intro-to-git-github/" style="text-decoration: none; color: inherit; display: block;">
+    <center>![intro-to-git](./images/git_and_github.png){ width="220" }</center>
     
     __Introduction to Git and Github__
     
     ---
     <span style="font-size: 0.7rem;"> 
     How to manage code and collaborate effectively using Git and GitHub. This workshop introduces version control concepts, repositories, branching, commits, and pull requests, providing the skills needed to track changes and contribute confidently to modern software projects
-    </span><br>
+    </span></a><br>
 
     [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-intro-to-git-github/){ .md-button }
 
--   <center>![intro-to-git](./images/apptainer.png){ width="220" }</center>
+-   <a href="https://kir-rescomp.github.io/training-intro-to-apptainer/" style="text-decoration: none; color: inherit; display: block;">
+    <center>![intro-to-git](./images/apptainer.png){ width="220" }</center>
     
     __Introduction to Apptainer__
     
     ---
     <span style="font-size: 0.7rem;"> 
     Introduction to using the Apptainer container platform. Apptainer is particularly suited to running containers on infrastructure where users don’t have administrative privileges, for example shared infrastructure such as High Performance Computing (HPC) clusters
-    </span><br>
+    </span></a><br>
 
     [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-intro-to-apptainer/){ .md-button }
     
--   <center>![intro-to-snakemake](./images/snakemake_new_logo.png){ width="220" }</center>
+-   <a href="https://kir-rescomp.github.io/training-intro-to-snakemake" style="text-decoration: none; color: inherit; display: block;">
+    <center>![intro-to-snakemake](./images/snakemake_new_logo.png){ width="220" }</center>
     
     
     __Introduction to Snakemake__
@@ -57,11 +61,12 @@
     ---
     <span style="font-size: 0.7rem;">
     Snakemake is a powerful workflow management system designed to create reproducible and scalable data analyses through simple, human-readable Python-based syntax. It automatically detects dependencies, parallelizes tasks efficiently, and can seamlessly scale from a single workstation to computing clusters and cloud environments
-    </span><br>
+    </span></a><br>
     
     [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-intro-to-snakemake/){ .md-button }
 
--   <center>![gpu-profiling](./images/gpu_profiling.png){ width="220" }</center>
+-   <a href="https://kir-rescomp.github.io/training-gpu-profiling/" style="text-decoration: none; color: inherit; display: block;">
+    <center>![gpu-profiling](./images/gpu_profiling.png){ width="220" }</center>
     
     
     __GPU Profiling__
@@ -69,8 +74,9 @@
     ---
     <span style="font-size: 0.7rem;">
     User-level guide for profiling GPU usage in Slurm jobs without requiring sudo/admin permissions.
-    </span><br>
+    </span></a><br>
     
     [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-gpu-profiling/){ .md-button }
+
 
 </div>
