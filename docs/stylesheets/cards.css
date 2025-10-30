@@ -1,0 +1,16 @@
+/* Force 3 columns for grid cards */
+.md-typeset .grid.cards {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+/* Clickable card hover effect */
+.grid.cards > ul > li a {
+    transition: all 0.3s ease;
+}
+
+.grid.cards > ul > li a:hover {
+    background-color: rgba(var(--md-primary-fg-color--rgb), 0.05);
+    transform: scale(1.01);
+    transition: all 0.3s ease;
+}
