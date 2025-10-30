@@ -5,12 +5,12 @@
 }
 
 /* Clickable card hover effect */
-.grid.cards > ul > li a {
+.grid.cards > ul > li {
     transition: all 0.3s ease;
 }
 
-.grid.cards > ul > li a:hover {
+.grid.cards > ul > li:hover {
     background-color: rgba(var(--md-primary-fg-color--rgb), 0.05);
-    transform: scale(1.01);
+    transform: scale(1.05);
     transition: all 0.3s ease;
 }
