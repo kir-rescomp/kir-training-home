@@ -44,8 +44,9 @@
     <center>![intro-to-git](./images/apptainer.png){ width="220" }</center>
     
     __Introduction to Apptainer__
-    
+  
     ---
+    <br>
     <span style="font-size: 0.7rem;"> 
     Introduction to using the Apptainer container platform. Apptainer is particularly suited to running containers on infrastructure where users don’t have administrative privileges, for example shared infrastructure such as High Performance Computing (HPC) clusters
     </span></a><br>
@@ -72,6 +73,7 @@
     __GPU Profiling__
     
     ---
+    <br>
     <span style="font-size: 0.7rem;">
     User-level guide for profiling GPU usage in Slurm jobs without requiring sudo/admin permissions.
     </span></a><br>
