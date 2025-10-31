@@ -80,5 +80,18 @@
     
     [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-gpu-profiling/){ .md-button }
 
+-   <a href="" style="text-decoration: none; color: inherit; display: block;">
+    <center>![py-packaging](./images/python_packaging.png){ width="220" }</center>
+    
+    
+    __The Basics of Python Packaging__
+    
+    ---
+    <br>
+    <span style="font-size: 0.7rem;">
+    Quick how-to guide on what you minimally need to do to adopt the modern Python packaging standards
+    </span></a><br>
+    
+    [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-gpu-profiling/){ .md-button }
 
 </div>
