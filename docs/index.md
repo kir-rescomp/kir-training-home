@@ -87,7 +87,6 @@
     __The Basics of Python Packaging__
     
     ---
-    <br>
     <span style="font-size: 0.7rem;">
     Quick how-to guide on what you minimally need to do to adopt the modern Python packaging standards
     </span></a><br>
