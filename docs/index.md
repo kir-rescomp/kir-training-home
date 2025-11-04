@@ -5,11 +5,10 @@
  </p> 
 
 !!! quote ""
-
-    This catalogue serves as a central repository for training resources and educational materials developed by the Research Computing team at the Kennedy Institute of Rheumatology, University of Oxford to support computational research and skill development.
-
-    For any question or enquiries related to this catalogue, please contact Dini ( dini.senanayake@kennedy.ox.ac.uk)
-
+    <p class="blue-highlight">
+    This catalogue serves as a central repository for training resources and educational materials developed by the Research Computing team at the Kennedy Institute of Rheumatology, University of Oxford to support computational research and skill development.<br><br>
+    For any question or enquiries related to this catalogue, please contact KIR Research Computing Manager ( dini.senanayake@kennedy.ox.ac.uk)
+    </p>
 
 <!--- check -->
 
