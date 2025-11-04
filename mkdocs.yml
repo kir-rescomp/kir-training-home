@@ -123,3 +123,4 @@ copyright : KIR Training Catalogue is licensed under a <a rel="noopener" target=
 extra_css:
   - stylesheets/extra.css
   - stylesheets/cards.css
+  - stylesheets/colors.css

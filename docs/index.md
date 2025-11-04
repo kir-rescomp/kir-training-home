@@ -8,8 +8,15 @@
 
     This catalogue serves as a central repository for training resources and educational materials developed by the Research Computing team at the Kennedy Institute of Rheumatology, University of Oxford to support computational research and skill development.
 
+    For any question or enquiries related to this catalogue, please contact Dini ( dini.senanayake@kennedy.ox.ac.uk)
+
 
 <!--- check -->
+
+!!! circle-info "Additional Training Resources by OxRSE"
+
+    For additional intermediate- to advanced-level Research Software Engineering training resources, as well as selected introductory materials focused on specific programming languages, please refer to the  maintained by [OxRSE](https://www.rse.ox.ac.uk) at https://train.rse.ox.ac.uk/material.
+
 
 ---
 
