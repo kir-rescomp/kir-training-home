@@ -602,12 +602,12 @@
   }
   .md-typeset .admonition.circle-info,
   .md-typeset details.circle-info {
-    border-color: rgb(131, 174, 238);
+    border-color: rgb(230, 234, 240);
   }
   .md-typeset .circle-info > .admonition-title,
   .md-typeset .circle-info > summary {
     color:rgb(238, 236, 231);
-    background-color: rgba(24, 27, 196, 0.863);
+    background-color: rgba(15,31,71);
   }
   .md-typeset .circle-info > .admonition-title::before,
   .md-typeset .circle-info > summary::before {
