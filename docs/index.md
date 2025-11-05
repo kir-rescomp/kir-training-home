@@ -15,6 +15,10 @@
 
     ??? circle-info "Additional Training Resources by OxRSE"
 
+        <p align="center">
+            <img src="./images/oxrse_logo.png" alt="drawing" width="100">
+        </p>
+
         For additional intermediate- to advanced-level Research Software Engineering training resources, as well as selected introductory materials focused on specific programming languages, please refer to the catalogue maintained by [OxRSE](https://www.rse.ox.ac.uk) at https://train.rse.ox.ac.uk/material.
 
 <!--- check -->
