@@ -124,3 +124,4 @@ extra_css:
   - stylesheets/extra.css
   - stylesheets/cards.css
   - stylesheets/colors.css
+  - stylesheets/side_bar_menu.css
