@@ -1,0 +1,27 @@
+[workspace]
+name = "kir-training-home"
+version = "0.1.0"
+description = "KIR Research Computing Training Catalogue"
+authors = ["KIR Research Computing <rescomp@kennedy.ox.ac.uk>"]
+channels = ["conda-forge"]
+platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
+
+[dependencies]
+python = ">=3.10"
+mkdocs-material = "*"
+cairosvg = "*"
+pillow = "*"
+mkdocs-glightbox = "*"
+mergedeep = "*"
+
+# Install via pip (not available in conda-forge for all platforms)
+[pypi-dependencies]
+mkdocs-get-deps = "*"
+mkdocs-git-revision-date-localized-plugin = "*"
+mkdocs-material-extensions = "*"
+mkdocs-awesome-pages-plugin = "*"
+mkdocs-rss-plugin = "*"
+
+[tasks]
+serve = "mkdocs serve"
+build = "mkdocs build"

@@ -125,3 +125,17 @@ extra_css:
   - stylesheets/cards.css
   - stylesheets/colors.css
   - stylesheets/side_bar_menu.css
+
+nav:
+  - Home: index.md
+  - Foundational Skills:
+    - Introduction to Linux CLI: https://kir-rescomp.github.io/training-intro-to-linux-cli/
+    - Introduction to Git & GitHub: https://kir-rescomp.github.io/training-intro-to-git-github/
+  - Development Tools:
+    - Introduction to tmux: https://kir-rescomp.github.io/training-intro-to-tmux/
+  - Research Computing Workflows:
+    - Introduction to Apptainer: https://kir-rescomp.github.io/training-intro-to-apptainer/
+    - Introduction to Snakemake: https://kir-rescomp.github.io/training-intro-to-snakemake/
+  - Other Topics:
+    - Python Packaging Basics: https://kir-rescomp.github.io/training-basics-python-packaging/
+    - GPU Profiling: https://kir-rescomp.github.io/training-gpu-profiling/
