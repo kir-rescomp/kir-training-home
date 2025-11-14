@@ -45,7 +45,7 @@ Create a new repository from the template on GitHub:
 
 ```bash
 # Clone your newly created repository
-git clone https://github.com/kir-rescomp/training-[your-topic].git
+git clone git@github.com:kir-rescomp/training-[your-topic].git
 cd training-[your-topic]
 
 # Create your personal dev branch
@@ -54,7 +54,7 @@ git checkout -b <your-name>-dev
 
 **Example:**
 ```bash
-git clone https://github.com/kir-rescomp/training-intro-to-tmux.git
+git clone git@github.com:kir-rescomp/training-intro-to-tmux.git
 cd training-intro-to-tmux
 git checkout -b jacky-dev
 ```
