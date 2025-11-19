@@ -55,6 +55,18 @@
 
     [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-intro-to-git-github/){ .md-button }
 
+-   <a href="https://kir-rescomp.github.io/training-intro-to-tmux/" style="text-decoration: none; color: inherit; display: block;">
+    <center>![intro-to-tmux](./images/tmux_logo.png){ width="220" }</center>
+
+    __Introduction to tmux__
+
+    ---
+    <span style="font-size: 0.7rem;">
+    Learn how to use tmux, a powerful terminal multiplexer that allows you to manage multiple terminal sessions, create persistent workspaces, and enhance your productivity on remote servers. This workshop covers essential tmux concepts including sessions, windows, panes, and customization
+    </span></a><br>
+
+    [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-intro-to-tmux/){ .md-button }
+
 -   <a href="https://kir-rescomp.github.io/training-intro-to-apptainer/" style="text-decoration: none; color: inherit; display: block;">
     <center>![intro-to-git](./images/apptainer.png){ width="220" }</center>
     

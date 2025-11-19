@@ -19,9 +19,9 @@ The catalogue links to multiple training modules. Each module is a separate repo
 | Introduction to the Linux Command Line | [Site](https://kir-rescomp.github.io/training-intro-to-linux-cli/) | [Repo](https://github.com/kir-rescomp/training-intro-to-linux-cli) |
 | Introduction to Git and GitHub | [Site](https://kir-rescomp.github.io/training-intro-to-git-github/) | [Repo](https://github.com/kir-rescomp/training-intro-to-git-github) |
 | Introduction to tmux | [Site](https://kir-rescomp.github.io/training-intro-to-tmux/) | [Repo](https://github.com/kir-rescomp/training-intro-to-tmux) |
-| Python Environment Management | [Site](https://kir-rescomp.github.io/training-python-env-management/) | [Repo](https://github.com/kir-rescomp/training-python-env-management) |
-| VSCode Remote SSH and Jupyter on Slurm | [Site](https://kir-rescomp.github.io/training-vscode-jupyter-slurm/) | [Repo](https://github.com/kir-rescomp/training-vscode-jupyter-slurm) |
-| Agentic Coding Tools | [Site](https://kir-rescomp.github.io/training-agentic-coding/) | [Repo](https://github.com/kir-rescomp/training-agentic-coding) |
+| Python Environment Management (In Progress) | [Site](https://kir-rescomp.github.io/training-python-env-management/) | [Repo](https://github.com/kir-rescomp/training-python-env-management) |
+| VSCode Remote SSH and Jupyter on Slurm  (In Progress)| [Site](https://kir-rescomp.github.io/training-vscode-jupyter-slurm/) | [Repo](https://github.com/kir-rescomp/training-vscode-jupyter-slurm) |
+| Agentic Coding Tools  (In Progress)| [Site](https://kir-rescomp.github.io/training-agentic-coding/) | [Repo](https://github.com/kir-rescomp/training-agentic-coding) |
 | Introduction to Apptainer | [Site](https://kir-rescomp.github.io/training-intro-to-apptainer/) | [Repo](https://github.com/kir-rescomp/training-intro-to-apptainer) |
 | Introduction to Snakemake | [Site](https://kir-rescomp.github.io/training-intro-to-snakemake/) | [Repo](https://github.com/kir-rescomp/training-intro-to-snakemake) |
 | The Basics of Python Packaging | [Site](https://kir-rescomp.github.io/training-basics-python-packaging/) | [Repo](https://github.com/kir-rescomp/training-basics-python-packaging) |
