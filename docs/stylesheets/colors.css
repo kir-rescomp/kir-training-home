@@ -4,3 +4,22 @@
     padding: 10px;
     border-radius: 4px;
 }
+
+/* Improve button contrast in dark mode */
+[data-md-color-scheme="slate"] .md-button {
+    background-color: #4a90e2;
+    color: #ffffff;
+    border: 1px solid #5a9fe8;
+}
+
+[data-md-color-scheme="slate"] .md-button:hover {
+    background-color: #5a9fe8;
+    color: #ffffff;
+    border-color: #6aafff;
+}
+
+[data-md-color-scheme="slate"] .md-button:focus,
+[data-md-color-scheme="slate"] .md-button:active {
+    background-color: #3a80d2;
+    color: #ffffff;
+}
