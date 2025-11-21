@@ -109,3 +109,9 @@
     [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-basics-python-packaging/){ .md-button }
 
 </div>
+
+
+
+<p align="center">
+    <img src="./images/blue_yellow_stripes.png" alt="stripe">
+</p>
