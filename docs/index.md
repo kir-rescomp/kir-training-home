@@ -108,6 +108,20 @@
  <!----   
     [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-basics-python-packaging/){ .md-button }
 -->
+-   <a href="https://kir-rescomp.github.io/training-basics-r-packaging/" style="text-decoration: none; color: inherit; display: block;">
+    <center>![r-packaging](./images/basics_r_packaging_logo.png){ width="220" }</center>
+    
+    
+    __The Basics of R Packaging__
+    
+    ---
+    <br>
+    <span style="font-size: 0.7rem;">
+    Quick how-to guide on what you minimally need to do to adopt the modern R packaging standards
+    </span></a><br>
+<!---    
+    [Start :octicons-arrow-right-24:](https://kir-rescomp.github.io/training-gpu-profiling/){ .md-button }
+-->
 </div>
 
 
