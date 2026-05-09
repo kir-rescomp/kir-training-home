@@ -1,7 +1,7 @@
 <h1></h1>
 
 <p align="center">
- <img src="./images/third_training_logo.png" alt="drawing" width="500"/>
+ <img src="./images/KIR_Research_Computing_Hub_layered_logo.svg" alt="drawing" width="400"/>
  </p> 
 
 !!! quote ""

@@ -10,7 +10,7 @@ repo_url: https://github.com/kir-rescomp/kir-training-home
 
 theme:
   name: material
-  logo: images/kir_oxford_combined_logo.png
+  logo: images/KIR_Research_Computing_Hub_layered_logo_favicon.svg
   favicon: images/kir_standalone_logo.png 
    # 404 page
   static_templates:
