@@ -6,7 +6,7 @@
    version="1.1"
    id="svg21"
    sodipodi:docname="KIR_Research_Computing_Hub_layered_logo.svg"
-   inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
+   inkscape:version="1.4.3 (1:1.4.3+202512261034+0d15f75042)"
    inkscape:export-filename="KIR_Research_Computing_Hub_layered_logo.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -24,14 +24,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:zoom="0.71544715"
-     inkscape:cx="615"
+     inkscape:cx="614.30114"
      inkscape:cy="512.26705"
-     inkscape:window-width="1882"
-     inkscape:window-height="1131"
-     inkscape:window-x="38"
-     inkscape:window-y="1112"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg21"
+     inkscape:current-layer="hub-group"
      showgrid="false">
     <inkscape:grid
        id="grid1"
@@ -285,16 +285,16 @@
       <g
          id="hub-group">
         <line
-           x1="952.06335"
+           x1="960.06335"
            y1="941"
-           x2="1061.3571"
+           x2="1069.3571"
            y2="941"
            class="thinGold"
            id="line21" />
         <line
-           x1="176.87256"
+           x1="152.87256"
            y1="940.82709"
-           x2="286.16626"
+           x2="262.16626"
            y2="940.82709"
            class="thinGold"
            id="line21-6"
@@ -310,7 +310,7 @@
            xml:space="preserve"><tspan
              x="615"
              y="958"
-             id="tspan1">Training Catalogue</tspan></text>
+             id="tspan2">Training Catalogue</tspan></text>
       </g>
     </g>
   </g>
