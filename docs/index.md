@@ -4,6 +4,8 @@
  <img src="./images/KIR_Research_Computing_Hub_layered_logo.svg" alt="drawing" width="400"/>
  </p> 
 
+Test * 
+
 !!! quote ""
     
     This catalogue serves as a central repository for training resources and educational materials developed by the Research Computing team at the _Kennedy Institute of Rheumatology, University of Oxford_ to support computational research and skill development.<br>
