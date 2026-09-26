@@ -1,0 +1,23 @@
+.catalog-return {
+  position: fixed;
+  top: 90px;
+  right: 260px;
+  z-index: 1000;
+}
+
+.catalog-return a {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  transition: all 0.2s;
+}
+
+.catalog-return a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}

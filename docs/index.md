@@ -1,3 +1,7 @@
+<div class="catalog-return">
+  <a href="https://kir-rescomp.github.io/kir-researchcomp-hub/">← Return to KIR Research Hub</a>
+</div>
+
 <h1></h1>
 
 <p align="center">
